@@ -6,5 +6,6 @@ public class HelloGit {
 
     public static void hiMethod(){
         System.out.println("hi method");
+        System.out.println("HelloGit.hiMethod");
     }
 }
